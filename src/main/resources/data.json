@@ -1,0 +1,519 @@
+{
+    "users": [
+        {
+            "info": {
+                "name": "mouad",
+                "email": "mouad.zaazaa@outlook.fr",
+                "Birth_Date": "10-12-2019",
+                "password": "password"
+            },
+            "account": {
+                "account_name": "mouad",
+                "account_number": "11324211",
+                "balance": "489.22",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": [
+                {
+                    "id_transaction": "1",
+                    "type": "deposit",
+                    "description": "100.00"
+                },
+                {
+                    "id_transaction": "2",
+                    "type": "deposit",
+                    "description": "100"
+                },
+                {
+                    "id_transaction": "3",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "4",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "5",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "6",
+                    "type": "deposit",
+                    "description": "122"
+                },
+                {
+                    "id_transaction": "7",
+                    "type": "deposit",
+                    "description": "103"
+                },
+                {
+                    "id_transaction": "8",
+                    "type": "deposit",
+                    "description": "104"
+                },
+                {
+                    "id_transaction": "9",
+                    "type": "withdraw",
+                    "description": "20"
+                },
+                {
+                    "id_transaction": "10",
+                    "type": "withdraw",
+                    "description": "10"
+                }
+            ]
+        },
+        {
+            "info": {
+                "name": "zaazaa",
+                "email": "2405651134",
+                "Birth_Date": "10-12-2019",
+                "password": "password0"
+            },
+            "account": {
+                "account_name": "zaazaa",
+                "account_number": "11324212",
+                "type": "costumer",
+                "balance": "1624.0",
+                "status": "Close",
+                "enabled": "False"
+            },
+            "transactions": [
+                {
+                    "id_transaction": "1",
+                    "type": "deposit",
+                    "description": "100.00"
+                },
+                {
+                    "id_transaction": "2",
+                    "type": "withdraw",
+                    "description": "40.0"
+                },
+                {
+                    "id_transaction": "3",
+                    "type": "withdraw",
+                    "description": "10.0"
+                },
+                {
+                    "id_transaction": "4",
+                    "type": "withdraw",
+                    "description": "10.0"
+                },
+                {
+                    "id_transaction": "5",
+                    "type": "withdraw",
+                    "description": "10.0"
+                },
+                {
+                    "id_transaction": "6",
+                    "type": "withdraw",
+                    "description": "10.0"
+                },
+                {
+                    "id_transaction": "7",
+                    "type": "deposit",
+                    "description": "50.0"
+                },
+                {
+                    "id_transaction": "8",
+                    "type": "deposit",
+                    "description": "400"
+                },
+                {
+                    "id_transaction": "9",
+                    "type": "withdraw",
+                    "description": "20"
+                },
+                {
+                    "id_transaction": "10",
+                    "type": "withdraw",
+                    "description": "20"
+                },
+                {
+                    "id_transaction": "11",
+                    "type": "withdraw",
+                    "description": "30"
+                },
+                {
+                    "id_transaction": "12",
+                    "type": "withdraw",
+                    "description": "30"
+                },
+                {
+                    "id_transaction": "13",
+                    "type": "withdraw",
+                    "description": "100"
+                },
+                {
+                    "id_transaction": "14",
+                    "type": "deposit",
+                    "description": "100"
+                },
+                {
+                    "id_transaction": "15",
+                    "type": "withdraw",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "16",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "17",
+                    "type": "withdraw",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "18",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "19",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "20",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "21",
+                    "type": "deposit",
+                    "description": "100"
+                },
+                {
+                    "id_transaction": "22",
+                    "type": "withdraw",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "23",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "24",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "25",
+                    "type": "deposit",
+                    "description": "100"
+                },
+                {
+                    "id_transaction": "26",
+                    "type": "withdraw",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "27",
+                    "type": "deposit",
+                    "description": "1000"
+                },
+                {
+                    "id_transaction": "28",
+                    "type": "deposit",
+                    "description": "122"
+                },
+                {
+                    "id_transaction": "29",
+                    "type": "deposit",
+                    "description": "12"
+                },
+                {
+                    "id_transaction": "30",
+                    "type": "withdraw",
+                    "description": "100"
+                }
+            ]
+        },
+        {
+            "info": {
+                "name": "ds",
+                "email": "mouad@mouad.com",
+                "Birth_Date": "2018-12-12",
+                "password": "pass"
+            },
+            "account": {
+                "account_name": "ds",
+                "account_number": "122334456",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "name",
+                "email": "mouad@zaazaa.com",
+                "Birth_Date": "1993-03-01",
+                "password": "passwo"
+            },
+            "account": {
+                "account_name": "name",
+                "account_number": "7857124",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mouaaad",
+                "email": "mouad@ou.com",
+                "Birth_Date": "1993-03-21",
+                "password": "paaaaasword"
+            },
+            "account": {
+                "account_name": "mouaaad",
+                "account_number": "1788685",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mouaaaad",
+                "email": "m@mail.com",
+                "Birth_Date": "1992-03-12",
+                "password": "paasworrrd"
+            },
+            "account": {
+                "account_name": "mouaaaad",
+                "account_number": "6581283",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mouad.zaazaa",
+                "email": "mouad@outlook.fr",
+                "Birth_Date": "1993-03-13",
+                "password": "passsworrrd"
+            },
+            "account": {
+                "account_name": "mouad.zaazaa",
+                "account_number": "4356022",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mouad.zaa",
+                "email": "mouad@outlook.fr",
+                "Birth_Date": "1993-03-13",
+                "password": "passssword"
+            },
+            "account": {
+                "account_name": "mouad.zaa",
+                "account_number": "6539187",
+                "type": "costumer",
+                "balance": "100.0",
+                "status": "Open",
+                "enabled": "True"
+            },
+            "transactions": [
+                {
+                    "id_transaction": "1",
+                    "type": "deposit",
+                    "description": "100"
+                }
+            ]
+        },
+        {
+            "info": {
+                "name": "usernaaaaame.za",
+                "email": "mouad@outlook.fr",
+                "Birth_Date": "1993-03-12",
+                "password": "passcooode"
+            },
+            "account": {
+                "account_name": "usernaaaaame.za",
+                "account_number": "5078201",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "1993-04-03",
+                "email": "mouaaad@gmail.com",
+                "Birth_Date": "1993-03-02",
+                "password": "passssssssss"
+            },
+            "account": {
+                "account_name": "1993-04-03",
+                "account_number": "7550329",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mooouad",
+                "email": "za@za.za",
+                "Birth_Date": "1993-04-03",
+                "password": "paaaswordd"
+            },
+            "account": {
+                "account_name": "mooouad",
+                "account_number": "2381518",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mouad.poopo",
+                "email": "mouad@outlok.fr",
+                "Birth_Date": "1993-12-12",
+                "password": "paaaaassswooord"
+            },
+            "account": {
+                "account_name": "mouad.poopo",
+                "account_number": "4624286",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "test.mouad",
+                "email": "zaa@outlook.fr",
+                "Birth_Date": "1993-04-21",
+                "password": "paaaaswooord"
+            },
+            "account": {
+                "account_name": "test.mouad",
+                "account_number": "2584083",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mouaaad.zaazaa",
+                "email": "mouasad@outlook.fr",
+                "Birth_Date": "1993-03-12",
+                "password": "paaaaaswooord"
+            },
+            "account": {
+                "account_name": "mouaaad.zaazaa",
+                "account_number": "2553065",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mouad.zaazaa",
+                "email": "mouad.zaazaa@outlook.fr",
+                "Birth_Date": "1993-03-01",
+                "password": "password"
+            },
+            "account": {
+                "account_name": "mouad.zaazaa",
+                "account_number": "3089014",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": []
+        },
+        {
+            "info": {
+                "name": "mou.zaazaa",
+                "email": "mouaad@outlook.fr",
+                "Birth_Date": "1993-03-01",
+                "password": "paaaassword123"
+            },
+            "account": {
+                "account_name": "mou.zaazaa",
+                "account_number": "3379746",
+                "type": "costumer",
+                "balance": "0.0",
+                "status": "Close",
+                "enabled": "True"
+            },
+            "transactions": [
+                {
+                    "id_transaction": "1",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "2",
+                    "type": "withdraw",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "3",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "4",
+                    "type": "withdraw",
+                    "description": "8"
+                },
+                {
+                    "id_transaction": "5",
+                    "type": "withdraw",
+                    "description": "2"
+                },
+                {
+                    "id_transaction": "6",
+                    "type": "deposit",
+                    "description": "10"
+                },
+                {
+                    "id_transaction": "7",
+                    "type": "withdraw",
+                    "description": "10"
+                }
+            ]
+        }
+    ]
+}
