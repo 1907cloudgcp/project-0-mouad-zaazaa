@@ -16,8 +16,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-	#if info==1 or info ==1
-
-	#acc=account_menu(info[0],info[1])
-	#info=control_acc_menu(acc)
